@@ -36,22 +36,57 @@ This project demonstrates the power of **CSS** for creating stunning visual desi
 
 ---
 
-## **Live Demo**
-Check out the live demo of the project:  
-[GitHub Pages Link](#) *(Replace with your GitHub Pages link after deployment)*
-
----
-
 ## **Screenshots**
+![Screenshot (3)](https://github.com/user-attachments/assets/ef9acec6-4c01-4514-8cc3-eb1412935a9a)
+![Screenshot (4)](https://github.com/user-attachments/assets/11d01c27-65b2-457c-b651-ced18f068f88)
+
+
 ### CSS Art Showcase
-![CSS Art](screenshots/css-art.png) *(Add a screenshot of your CSS art section)*
+![CSS Art](https://github.com/user-attachments/assets/ef9acec6-4c01-4514-8cc3-eb1412935a9a)) 
 
 ### Factorial Calculator
-![Calculator](screenshots/calculator.png) *(Add a screenshot of the calculator section)*
+![Calculator]![Screenshot (4)](https://github.com/user-attachments/assets/11d01c27-65b2-457c-b651-ced18f068f88)
 
 ---
 
-## **How to Use**
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/css-art-factorial-calculator.git
+## **Setup Instructions**
+## Prerequisites:
+
+A modern web browser (e.g., Chrome, Firefox, Edge).
+
+Git (optional, for cloning the repository).
+
+## Running Locally:
+
+Download the project files or clone the repository.
+
+Open index.html in your browser.
+
+## Deploying to GitHub Pages:
+
+Push your code to a GitHub repository.
+
+Go to Settings > Pages and enable GitHub Pages for the main branch.
+
+---
+
+## **Code Structure**
+
+css-art-factorial-calculator/
+│
+├── index.html          # Main HTML file
+├── style.css           # CSS for styling and CSS art
+├── script.js           # JavaScript for factorial logic
+├── README.md           # Project documentation
+└── screenshots/        # Folder for screenshots (optional)
+---
+## **License**
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+---
+
+## **Acknowledgements**
+Inspired by modern web design trends.
+
+Built with ❤️ by Vishesha.
+
